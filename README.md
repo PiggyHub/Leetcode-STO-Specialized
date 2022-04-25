@@ -1,13 +1,18 @@
 # Leetcode-SWTO-Specialized
-## 1. Schedule 
-4/24 - 5/14 (21) 6:00 - 8:00
+## Day 1 4/25 Mon
+001 Integer Division
+002 Binary Addition
+003 How many 1 in Binary
+004 Who Appear Once
+005 Biggest Product of word
+006 Two Sum
 
-## 2. Content 
-SWTO-Specialized (120) 6/per day
 
-## 3. Evaluation
-Daily Quiz: Accurcy / Time ￥10/per day
 
-Weekly contest * 3 ￥50
 
-Kick Start Round C  一顿饭
+
+
+
+
+
+
