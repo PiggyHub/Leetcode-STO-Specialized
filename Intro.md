@@ -1,6 +1,6 @@
 # Leetcode-STO-Specialized
 ## 1. Schedule 
-4/24 - 5/14 (21) 6:00 - 8:00
+4/24 - 5/14 (21) 22:00-24:00
 
 ## 2. Content 
 SWTO-Specialized (120) 6/per day
